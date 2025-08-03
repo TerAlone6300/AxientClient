@@ -1,5 +1,9 @@
 # AxientClient
 
+<p align="center">
+  <img src="assets/logo.png" alt="AxientClient Logo" width="150"/>
+</p>
+
 🎮 **AxientClient** là một mod Minecraft PvP client-side được thiết kế đặc biệt để thân thiện với người chơi **không có tài khoản Premium**.  
 Tập trung vào trải nghiệm mượt mà, tiện lợi và tối ưu cho người mới lẫn người chơi lâu năm.
 
