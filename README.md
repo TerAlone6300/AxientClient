@@ -25,7 +25,7 @@ Tập trung vào trải nghiệm mượt mà, tiện lợi và tối ưu cho ng�
 
 > 👉 Bạn không cần build thủ công!
 
-Tải `.jar` tại mục [Releases](https://github.com/TerAloneVN/AxientClient/releases)  
+Tải `.jar` tại mục [Releases](https://github.com/TerAlone6300/AxientClient/releases)  
 → Sau đó bỏ vào thư mục `mods` trong `.minecraft`
 
 Yêu cầu:
